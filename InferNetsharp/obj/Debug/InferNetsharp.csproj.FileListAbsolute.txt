@@ -1,0 +1,12 @@
+C:\Users\Alireza\Dropbox\Bayesian\Code\InferNetsharp\InferNetsharp\bin\Debug\InferNetsharp.exe.config
+C:\Users\Alireza\Dropbox\Bayesian\Code\InferNetsharp\InferNetsharp\bin\Debug\InferNetsharp.exe
+C:\Users\Alireza\Dropbox\Bayesian\Code\InferNetsharp\InferNetsharp\bin\Debug\InferNetsharp.pdb
+C:\Users\Alireza\Dropbox\Bayesian\Code\InferNetsharp\InferNetsharp\obj\Debug\InferNetsharp.csprojResolveAssemblyReference.cache
+C:\Users\Alireza\Dropbox\Bayesian\Code\InferNetsharp\InferNetsharp\obj\Debug\InferNetsharp.exe
+C:\Users\Alireza\Dropbox\Bayesian\Code\InferNetsharp\InferNetsharp\obj\Debug\InferNetsharp.pdb
+C:\Users\Alireza\Dropbox\Bayesian\Code\InferNetsharp\InferNetsharp\bin\Debug\Infer.Compiler.dll
+C:\Users\Alireza\Dropbox\Bayesian\Code\InferNetsharp\InferNetsharp\bin\Debug\Infer.Runtime.dll
+C:\Users\Alireza\Dropbox\Bayesian\Code\InferNetsharp\InferNetsharp\bin\Debug\Infer.Compiler.pdb
+C:\Users\Alireza\Dropbox\Bayesian\Code\InferNetsharp\InferNetsharp\bin\Debug\Infer.Compiler.xml
+C:\Users\Alireza\Dropbox\Bayesian\Code\InferNetsharp\InferNetsharp\bin\Debug\Infer.Runtime.pdb
+C:\Users\Alireza\Dropbox\Bayesian\Code\InferNetsharp\InferNetsharp\bin\Debug\Infer.Runtime.xml
